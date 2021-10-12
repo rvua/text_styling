@@ -1,14 +1,18 @@
+* {
+    font-family: sans-serif;
+}
+
 h1{
     background-color: black;
     color: white;
     text-align: left;
 }
 
-span{
+h1 span{
     color: turquoise;
 }
 
-h3{
+h2{
     background-color: rgb(176, 9, 209);
     color: white;
     font-style: italic;
@@ -16,7 +20,7 @@ h3{
     font-size: 30px;
 }
 
-h4{
+h3{
     background-color: lightblue;
     color: black;
     text-decoration: underline;
